@@ -100,7 +100,7 @@
 											"font": "Arial;13;0",
 											"left": 288,
 											"top": -16,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -222,7 +222,7 @@
 											"font": "Arial;13;0",
 											"left": 256,
 											"top": 192,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -342,7 +342,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 48,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -460,7 +460,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 400,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -578,7 +578,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 48,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -698,7 +698,7 @@
 											"font": "Arial;13;0",
 											"left": -80,
 											"top": 16,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -820,7 +820,7 @@
 											"font": "Arial;13;0",
 											"left": 16,
 											"top": 144,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -942,7 +942,7 @@
 											"font": "Arial;13;0",
 											"left": -64,
 											"top": -336,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1062,7 +1062,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": -192,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1182,7 +1182,7 @@
 											"font": "Arial;13;0",
 											"left": -272,
 											"top": 32,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1304,7 +1304,7 @@
 											"font": "Arial;13;0",
 											"left": -96,
 											"top": -80,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1426,7 +1426,7 @@
 											"font": "Arial;13;0",
 											"left": -16,
 											"top": -240,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1532,7 +1532,7 @@
 											"font": "Arial;13;1",
 											"left": 77,
 											"top": 495,
-											"width": 86.6708984375,
+											"width": 87.22988891601562,
 											"height": 13,
 											"underline": true,
 											"text": "fragmentation"
@@ -1546,7 +1546,7 @@
 											"visible": false,
 											"font": "Arial;13;0",
 											"left": 80,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1566,7 +1566,7 @@
 									"font": "Arial;13;0",
 									"left": 72,
 									"top": 488,
-									"width": 96.6708984375,
+									"width": 97.22988891601562,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAF3Htu8aVyoBXc="
@@ -1601,7 +1601,7 @@
 							"containerChangeable": true,
 							"left": 72,
 							"top": 488,
-							"width": 96.6708984375,
+							"width": 97.22988891601562,
 							"height": 25,
 							"nameCompartment": {
 								"$ref": "AAAAAAF3Htu8aVyn4Gc="
@@ -1666,7 +1666,7 @@
 											"font": "Arial;13;0",
 											"left": -112,
 											"top": 96,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1788,7 +1788,7 @@
 											"font": "Arial;13;0",
 											"left": 80,
 											"top": 96,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -1910,7 +1910,7 @@
 											"font": "Arial;13;0",
 											"left": 224,
 											"top": -128,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -2032,7 +2032,7 @@
 											"font": "Arial;13;0",
 											"left": 256,
 											"top": -112,
-											"width": 73.67724609375,
+											"width": 78.28593444824219,
 											"height": 13,
 											"text": "(from Model)"
 										},
@@ -6584,7 +6584,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 216,
+									"left": 217,
 									"top": 471,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6605,7 +6605,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 221,
+									"left": 222,
 									"top": 485,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -6626,7 +6626,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 205,
+									"left": 206,
 									"top": 444,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -6710,7 +6710,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 181,
+									"left": 182,
 									"top": 485,
 									"height": 13,
 									"alpha": -0.5235987755982988,
@@ -6730,7 +6730,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 188,
+									"left": 189,
 									"top": 497,
 									"height": 13,
 									"alpha": -0.7853981633974483,
@@ -6750,7 +6750,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 167,
+									"left": 168,
 									"top": 461,
 									"height": 13,
 									"alpha": 0.5235987755982988,
@@ -6768,7 +6768,7 @@
 								"$ref": "AAAAAAF3Htqiqlvm4ZU="
 							},
 							"lineStyle": 1,
-							"points": "271:441;152:487",
+							"points": "271:441;153:487",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAF3Ht4kKm0cWbI="
@@ -9866,6 +9866,602 @@
 						"$ref": "AAAAAAF3HtcUGFrGQwM="
 					},
 					"name": "ObjectDiagram1"
+				}
+			]
+		},
+		{
+			"_type": "UMLModel",
+			"_id": "AAAAAAF3XPxwdjo9lKw=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "Model2",
+			"ownedElements": [
+				{
+					"_type": "UMLClassDiagram",
+					"_id": "AAAAAAF3XPxwdjo+pVQ=",
+					"_parent": {
+						"$ref": "AAAAAAF3XPxwdjo9lKw="
+					},
+					"name": "即时通信",
+					"ownedViews": [
+						{
+							"_type": "UMLClassView",
+							"_id": "AAAAAAF3XP3f5TsXjGg=",
+							"_parent": {
+								"$ref": "AAAAAAF3XPxwdjo+pVQ="
+							},
+							"model": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"subViews": [
+								{
+									"_type": "UMLNameCompartmentView",
+									"_id": "AAAAAAF3XP3f5TsY8h8=",
+									"_parent": {
+										"$ref": "AAAAAAF3XP3f5TsXjGg="
+									},
+									"model": {
+										"$ref": "AAAAAAF3XP3f5DsVwS4="
+									},
+									"subViews": [
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF3XP3f5TsZLjw=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5TsY8h8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF3XP3f5TsaomA=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5TsY8h8="
+											},
+											"font": "Arial;13;1",
+											"left": 165,
+											"top": 95,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "IMEventListener"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF3XP3f5Tsb3Lg=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5TsY8h8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"width": 80.9072265625,
+											"height": 13,
+											"text": "(from Model2)"
+										},
+										{
+											"_type": "LabelView",
+											"_id": "AAAAAAF3XP3f5TscYgo=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5TsY8h8="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"height": 13,
+											"horizontalAlignment": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 160,
+									"top": 88,
+									"width": 324.208984375,
+									"height": 25,
+									"stereotypeLabel": {
+										"$ref": "AAAAAAF3XP3f5TsZLjw="
+									},
+									"nameLabel": {
+										"$ref": "AAAAAAF3XP3f5TsaomA="
+									},
+									"namespaceLabel": {
+										"$ref": "AAAAAAF3XP3f5Tsb3Lg="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAF3XP3f5TscYgo="
+									}
+								},
+								{
+									"_type": "UMLAttributeCompartmentView",
+									"_id": "AAAAAAF3XP3f5TsdI0Q=",
+									"_parent": {
+										"$ref": "AAAAAAF3XP3f5TsXjGg="
+									},
+									"model": {
+										"$ref": "AAAAAAF3XP3f5DsVwS4="
+									},
+									"font": "Arial;13;0",
+									"left": 160,
+									"top": 113,
+									"width": 324.208984375,
+									"height": 10
+								},
+								{
+									"_type": "UMLOperationCompartmentView",
+									"_id": "AAAAAAF3XP3f5jseUMs=",
+									"_parent": {
+										"$ref": "AAAAAAF3XP3f5TsXjGg="
+									},
+									"model": {
+										"$ref": "AAAAAAF3XP3f5DsVwS4="
+									},
+									"subViews": [
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XP+ZUjudsgU=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XP+ZTjua/vM="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 128,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onForceOffline()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XP/vpDuktJ8=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XP/vnjuhS5A="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 143,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onUserSigExpired()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQAbujur0po=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQAbsjuoIds="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 158,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onConnected()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQA+8Duye+o=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQA+6juvFVo="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 173,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onDisconnected(code: int, desc: String)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQBd6zu5sZ0=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQBd4ju291Y="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 188,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onWifiNeedAuth(String)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQB5cjvAhrc=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQB5aju9fAo="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 203,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onRefreshConversation(List_TIMConversation_)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQCSijvHS7I=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQCSfzvEjkY="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 218,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onNewMessages(List_TIMMessage_)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQCtYDvOyIc=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQCtWzvLOP8="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 233,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onGroupTipsEvent(TIMGroupTipsElem)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQDDwzvV2fY=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQDDvjvSD/A="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 248,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onAddOfflineConfigError()",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQDaMDvcubo=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQDaKzvZzrw="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 263,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onAddOfflineConfigSuccess(TIMOfflinePushSettings)",
+											"horizontalAlignment": 0
+										},
+										{
+											"_type": "UMLOperationView",
+											"_id": "AAAAAAF3XQDx7TvjE68=",
+											"_parent": {
+												"$ref": "AAAAAAF3XP3f5jseUMs="
+											},
+											"model": {
+												"$ref": "AAAAAAF3XQDx6Tvg+MU="
+											},
+											"font": "Arial;13;0",
+											"left": 165,
+											"top": 278,
+											"width": 314.208984375,
+											"height": 13,
+											"text": "+onRecvReceipt(List_TIMMessageReceipt_)",
+											"horizontalAlignment": 0
+										}
+									],
+									"font": "Arial;13;0",
+									"left": 160,
+									"top": 123,
+									"width": 324.208984375,
+									"height": 173
+								},
+								{
+									"_type": "UMLReceptionCompartmentView",
+									"_id": "AAAAAAF3XP3f5jsfzMI=",
+									"_parent": {
+										"$ref": "AAAAAAF3XP3f5TsXjGg="
+									},
+									"model": {
+										"$ref": "AAAAAAF3XP3f5DsVwS4="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"width": 10,
+									"height": 10
+								},
+								{
+									"_type": "UMLTemplateParameterCompartmentView",
+									"_id": "AAAAAAF3XP3f5jsgom4=",
+									"_parent": {
+										"$ref": "AAAAAAF3XP3f5TsXjGg="
+									},
+									"model": {
+										"$ref": "AAAAAAF3XP3f5DsVwS4="
+									},
+									"visible": false,
+									"font": "Arial;13;0",
+									"width": 10,
+									"height": 10
+								}
+							],
+							"font": "Arial;13;0",
+							"containerChangeable": true,
+							"left": 160,
+							"top": 88,
+							"width": 324.208984375,
+							"height": 208,
+							"nameCompartment": {
+								"$ref": "AAAAAAF3XP3f5TsY8h8="
+							},
+							"attributeCompartment": {
+								"$ref": "AAAAAAF3XP3f5TsdI0Q="
+							},
+							"operationCompartment": {
+								"$ref": "AAAAAAF3XP3f5jseUMs="
+							},
+							"receptionCompartment": {
+								"$ref": "AAAAAAF3XP3f5jsfzMI="
+							},
+							"templateParameterCompartment": {
+								"$ref": "AAAAAAF3XP3f5jsgom4="
+							}
+						},
+						{
+							"_type": "UMLNoteView",
+							"_id": "AAAAAAF3XQOJwzv+ARY=",
+							"_parent": {
+								"$ref": "AAAAAAF3XPxwdjo+pVQ="
+							},
+							"font": "Arial;13;0",
+							"left": 553.208984375,
+							"top": 88,
+							"width": 543.791015625,
+							"height": 337,
+							"text": "\n  被踢下线时回调\nonForceOffline()\n  用户票据过期\nonUserSigExpired()\n  连接建立\n onConnected()\n  连接断开\n onDisconnected(int code, String desc) \n  WIFI需要验证\n onWifiNeedAuth(String name) \n  部分会话刷新（包括多终端已读上报同步）\n onRefreshConversation(List<TIMConversation> conversations) \n  收到新消息回调\n onNewMessages(List<TIMMessage> msgs) \n  群Tips事件通知回调\nvoid onGroupTipsEvent(TIMGroupTipsElem elem)\n  登陆后，注册离线推送服务端配置信息失败回调接口\n onAddOfflineConfigError()\n登陆后，注册离线推送服务端配置成功回调接口\n onAddOfflineConfigSuccess(TIMOfflinePushSettings settings)\n onRecvReceipt(List<TIMMessageReceipt> list) "
+						},
+						{
+							"_type": "UMLNoteLinkView",
+							"_id": "AAAAAAF3XQOJ0DwB5g8=",
+							"_parent": {
+								"$ref": "AAAAAAF3XPxwdjo+pVQ="
+							},
+							"font": "Arial;13;0",
+							"head": {
+								"$ref": "AAAAAAF3XQOJwzv+ARY="
+							},
+							"tail": {
+								"$ref": "AAAAAAF3XP3f5TsXjGg="
+							},
+							"lineStyle": 1,
+							"points": "484:212;552:221"
+						}
+					]
+				},
+				{
+					"_type": "UMLInterface",
+					"_id": "AAAAAAF3XP2tvDrTU4w=",
+					"_parent": {
+						"$ref": "AAAAAAF3XPxwdjo9lKw="
+					},
+					"name": "Interface1"
+				},
+				{
+					"_type": "UMLClass",
+					"_id": "AAAAAAF3XP3f5DsVwS4=",
+					"_parent": {
+						"$ref": "AAAAAAF3XPxwdjo9lKw="
+					},
+					"name": "IMEventListener",
+					"operations": [
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XP+ZTjua/vM=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onForceOffline"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XP/vnjuhS5A=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onUserSigExpired"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQAbsjuoIds=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onConnected"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQA+6juvFVo=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onDisconnected",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQKNQDv5Dvs=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQA+6juvFVo="
+									},
+									"name": "code",
+									"type": "int"
+								},
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQKNQzv6zck=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQA+6juvFVo="
+									},
+									"name": "desc",
+									"type": "String"
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQBd4ju291Y=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onWifiNeedAuth",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQJOTzv2ixE=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQBd4ju291Y="
+									},
+									"name": "String",
+									"type": ""
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQB5aju9fAo=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onRefreshConversation",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQIyGTvzWGA=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQB5aju9fAo="
+									},
+									"name": "List_TIMConversation_",
+									"type": ""
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQCSfzvEjkY=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onNewMessages",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQIHazvwITs=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQCSfzvEjkY="
+									},
+									"name": "List_TIMMessage_",
+									"type": ""
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQCtWzvLOP8=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onGroupTipsEvent",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQHfNDvtC4Y=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQCtWzvLOP8="
+									},
+									"name": "TIMGroupTipsElem",
+									"type": ""
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQDDvjvSD/A=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onAddOfflineConfigError"
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQDaKzvZzrw=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onAddOfflineConfigSuccess",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQG2bDvqabw=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQDaKzvZzrw="
+									},
+									"name": "TIMOfflinePushSettings",
+									"type": ""
+								}
+							]
+						},
+						{
+							"_type": "UMLOperation",
+							"_id": "AAAAAAF3XQDx6Tvg+MU=",
+							"_parent": {
+								"$ref": "AAAAAAF3XP3f5DsVwS4="
+							},
+							"name": "onRecvReceipt",
+							"parameters": [
+								{
+									"_type": "UMLParameter",
+									"_id": "AAAAAAF3XQGO6jvnt/g=",
+									"_parent": {
+										"$ref": "AAAAAAF3XQDx6Tvg+MU="
+									},
+									"name": "List_TIMMessageReceipt_",
+									"type": ""
+								}
+							]
+						}
+					]
 				}
 			]
 		}
