@@ -1,0 +1,4 @@
+作业：
+ 第一个： Handler loop 休眠为什么不会导致ANR？
+ 第二个： Messagequeue 队列处理机制，在fragment 生命周期管理中的应用，整理
+ 第三个： 同步屏障研究一下原理
