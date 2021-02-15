@@ -1,0 +1,7 @@
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+== EXTERNAL_STORAGE组   组只申请一次
+我动态申请了 READ_EXTERNAL_STORAGE，就不需要申请WRITE_EXTERNAL_STORAGE，因为这两个是属于一个组 EXTERNAL_STORAGE
+
+
+PKMS  xml 文件里面去  如果我卸载APP  xml文件也卸载了呢？

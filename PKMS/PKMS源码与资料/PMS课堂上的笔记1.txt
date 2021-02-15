@@ -1,0 +1,76 @@
+PackageManagerService
+
+包  每一个应用 唯一标识 Package
+
+每一个应用 == 一个包
+每一个应用 == 进程
+每一个应用 == Linux UID 用户
+
+能够看到的所有应用，都是查询PKMS信息展示的
+
+简单来需知：PKMS 与 AMS 一样，也是Android系统核心服务之一，非常非常的重要，主要完成以下核心功能：
+1.解析AndroidNanifest.xml清单文件，解析清单文件中的所有节点信息
+2.扫描.apk文件，安装系统应用，安装本地应用等
+总结.管理本地应用，主要有， 安装，卸载，应用信息查询 等
+
+PKMS构造函数：
+5个阶段构成，下面会详细的来分析这些内容。 
+阶段1：BOOT_PROGRESS_PMS_START 
+阶段2：BOOT_PROGRESS_PMS_SYSTEM_SCAN_START 
+阶段3：BOOT_PROGRESS_PMS_DATA_SCAN_START 
+阶段4：BOOT_PROGRESS_PMS_SCAN_END 
+阶段5：BOOT_PROGRESS_PMS_READY
+
+startActivity mainActivity   跳转到   LoginActivity设置android:launchMode="singleTask"
+
+在启动的时候 加载 LoginActivity的时候解析  错误的示范
+正确的：
+PKMS 早就就加载了，人家早就知道了，不需要你跳转过去的时候 在解析
+
+
+init驱动.... --> init ..... zygote    SystemServer.main.run ---》PKMS.main 构造函数 20秒
+构造函数	
+	5个阶段
+		扫描系统APK
+		扫描普通APK
+		
+			QQ.apk的 清单文件  ----> Package(四大组件，launchMode)
+			
+			
+			qq应用 
+			    开机的时候  PKMS 构造函数  扫描  静态广播扫描进来  Package 再进行注册
+
+			
+			
+AMS
+PMS 
+
+下节课（）  PKMS 权限	
+
+ROM定制开发 	
+
+
+QQ.apk  	
+
+Google
+
+
+不可能实现，静默安装（厂商签名），智能安装（华为，其他手机，国内手机，需要输入密码）
+
+PMS
+PKMS  AMS   内核  深入的书籍
+
+为什么开机的时候，要把所有的应用全部安装一遍？
+
+
+
+
+
+
+
+
+
+
+
+
+
